@@ -1,3 +1,5 @@
+A simple react app to understand class components, component nesting, component configuration, component reuse, States, Props & Component Lifecycle hooks.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
